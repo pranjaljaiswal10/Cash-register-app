@@ -7,4 +7,4 @@ This is a Cash Register Manager using which you can calculate the change return 
 - CSS
 - Vanilla JS
 
-## Demo link: [Cash Register Manager](cash-register-pj.netlify.app/)
+## Demo link: [Cash Register Manager](https://cash-register-pj.netlify.app/)
